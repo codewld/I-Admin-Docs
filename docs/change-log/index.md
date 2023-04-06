@@ -1,5 +1,19 @@
 ## 更新日志
 
+### v0.0.4-alpha
+
+* 增加 "权限管理-后台用户管理"
+* 增加 "权限管理-角色管理"
+* I-Admin-Server：
+  * 通用增删改查接口中 queryWrapper 支持自动命名规则转换
+  * 通用增删改查接口修改注入方式为 Autowired，从而依据泛型选取 Bean
+* I-Admin-Web：
+  * 侧边栏支持根据窗口大小自动伸缩
+  * 增加 IContainer 容器、 ICard卡片组件、 IStatus 状态组件
+  * 增加 ICrud 增删改查组件
+
+
+
 ### v0.0.3-alpha
 
 * 增加登录登出功能
