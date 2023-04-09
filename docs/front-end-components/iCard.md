@@ -12,13 +12,15 @@
 
 ## Props
 
-* title - 标题
-
-
+| code  | name | note |
+| ----- | ---- | ---- |
+| title | 标题 |      |
 
 
 
 ## Slots
 
-* default - 内容区
-* button - 按钮区
+| code    | name   | note |
+| ------- | ------ | ---- |
+| default | 内容区 |      |
+| button  | 按钮区 |      |

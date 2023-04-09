@@ -11,4 +11,6 @@
 
 ## Slots
 
-* default - 内容区
+| code    | name   | note |
+| ------- | ------ | ---- |
+| default | 内容区 |      |

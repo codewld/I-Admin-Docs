@@ -11,3 +11,7 @@
 ## Props
 
 * status - 状态
+
+| code   | name | note                |
+| ------ | ---- | ------------------- |
+| status | 状态 | 布尔值；默认为 true |
