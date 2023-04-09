@@ -15,7 +15,8 @@ module.exports = {
           {text: 'iCrud', link: '/front-end-components/iCrud'},
           {text: 'iContainer', link: '/front-end-components/iContainer'},
           {text: 'iCard', link: '/front-end-components/iCard'},
-          {text: 'iStatus', link: '/front-end-components/iStatus'}
+          {text: 'iStatus', link: '/front-end-components/iStatus'},
+          {text: 'iDataContainer', link: '/front-end-components/iDataContainer'}
         ]
       },
     ],
