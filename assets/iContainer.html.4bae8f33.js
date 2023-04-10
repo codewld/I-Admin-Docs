@@ -1,0 +1,1 @@
+const t={key:"v-80f4f8d2",path:"/front-end-components/iContainer.html",title:"iContainer - \u5BB9\u5668\u7EC4\u4EF6",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u7279\u70B9",slug:"\u7279\u70B9",children:[]},{level:2,title:"Slots",slug:"slots",children:[]}],git:{},filePathRelative:"front-end-components/iContainer.md"};export{t as data};

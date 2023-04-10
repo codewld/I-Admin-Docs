@@ -1,0 +1,1 @@
+const t={key:"v-004c4de8",path:"/front-end-components/iStatus.html",title:"iStatus - \u72B6\u6001\u7EC4\u4EF6",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u7279\u70B9",slug:"\u7279\u70B9",children:[]},{level:2,title:"Props",slug:"props",children:[]}],git:{},filePathRelative:"front-end-components/iStatus.md"};export{t as data};
